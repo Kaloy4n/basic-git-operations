@@ -1,1 +1,1 @@
-# Intro-to-Java
+# Basic git operations
